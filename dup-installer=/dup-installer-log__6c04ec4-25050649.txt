@@ -1,0 +1,243 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 05:30:30
+* VERSION: 1.3.14
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO_ CURRENT SERVER                                | ORIGINAL SERVER
+PHP VERSION__:7.2.14                                        | 7.2.18
+OS___________:WINNT                                         | Linux
+CREATED______:2019-06-25 05:06:49
+WP VERSION___:5.2.1
+DUP VERSION__:1.3.14
+DB___________:10.1.37
+DB TABLES____:40
+DB ROWS______:8,679
+DB FILE SIZE_:21.13MB
+********************************************************************************
+PHP:		7.2.18 | SAPI: fpm-fcgi
+PHP MEMORY:	"4294967296" | SUHOSIN: "disabled"
+SERVER:		"Apache"
+DOC ROOT:	"/var/www/vhosts/premiar.cn/maximglass.com"
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	"https://maximglass.com/dup-installer/main.installer.php"
+SAFE MODE :	"0"
+CONFIG MODE :	"NEW"
+--------------------------------------
+PRE-EXTRACT-CHECKS
+--------------------------------------
+- PASS: Apache '.htaccess' backed-up to .htaccess-190625053030-5d11b17627b47-duplicator.bak
+- PASS: Existing Apache '.htaccess' was removed
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	machinerydbnew_6c04ec4d41bf3ae11382_20190625050649_archive.zip
+SIZE:	2.17MB
+
+ZIP:	Shell Exec Unzip
+>>> Starting Shell-Exec Unzip:
+Command: unzip -o -qq '/var/www/vhosts/premiar.cn/maximglass.com/machinerydbnew_6c04ec4d41bf3ae11382_20190625050649_archive.zip' -d '/var/www/vhosts/premiar.cn/maximglass.com' 2>&1
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 05:30:34 - RUNTIME: 4.0193 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 05:32:27
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.2.23 -- Build Server: 10.1.37
+FILE SIZE:	dup-database__6c04ec4-25050649.sql (13.01MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/var/www/vhosts/premiar.cn/maximglass.com/dup-installer/dup-installer-data__6c04ec4-25050649.sql]
+COLLATE FB:	Off
+[PHP ERR][WARN] MSG:count(): Parameter must be an array or an object that implements Countable [CODE:2|FILE:/var/www/vhosts/premiar.cn/maximglass.com/dup-installer/ctrls/ctrl.s2.dbinstall.php|LINE:386]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	362
+
+wp_commentmeta: (0)
+wp_comments: (3)
+wp_duplicator_packages: (0)
+wp_eum_logs: (0)
+wp_links: (0)
+wp_options: (365)
+wp_postmeta: (7118)
+wp_posts: (1217)
+wp_revslider_css: (109)
+wp_revslider_layer_animations: (0)
+wp_revslider_navigations: (0)
+wp_revslider_sliders: (3)
+wp_revslider_slides: (12)
+wp_revslider_static_slides: (3)
+wp_term_relationships: (192)
+wp_term_taxonomy: (45)
+wp_termmeta: (67)
+wp_terms: (45)
+wp_usermeta: (64)
+wp_users: (2)
+wp_wc_download_log: (0)
+wp_wc_product_meta_lookup: (21)
+wp_wc_webhooks: (0)
+wp_wonderplugin_3dcarousel: (1)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_yoast_seo_links: (150)
+wp_yoast_seo_meta: (238)
+Removed '74' cache/transient rows
+
+INSERT DATA RUNTIME: 0.4245 sec.
+STEP-2 COMPLETE @ 05:32:28 - RUNTIME: 0.4326 sec.
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP-3 START @ 05:33:27
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta^ (0)
+wp_comments~ (3)
+wp_duplicator_packages^ (0)
+wp_eum_logs^ (0)
+wp_links^ (0)
+wp_options~ (365)
+wp_postmeta~ (7118)
+wp_posts~ (1217)
+wp_revslider_css~ (109)
+wp_revslider_layer_animations^ (0)
+wp_revslider_navigations^ (0)
+wp_revslider_sliders~ (3)
+wp_revslider_slides~ (12)
+wp_revslider_static_slides~ (3)
+wp_term_relationships~ (192)
+wp_term_taxonomy~ (45)
+wp_termmeta~ (67)
+wp_terms~ (45)
+wp_usermeta~ (64)
+wp_users~ (2)
+wp_wc_download_log^ (0)
+wp_wc_product_meta_lookup~ (21)
+wp_wc_webhooks^ (0)
+wp_wonderplugin_3dcarousel~ (1)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies^ (0)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta^ (0)
+wp_woocommerce_order_items^ (0)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (1)
+wp_woocommerce_shipping_zone_locations^ (0)
+wp_woocommerce_shipping_zone_methods^ (0)
+wp_woocommerce_shipping_zones^ (0)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates^ (0)
+wp_yoast_seo_links~ (150)
+wp_yoast_seo_meta~ (238)
+--------------------------------------
+Search1:	'C:/xampp/htdocs/machinefinal' 
+Change1:	'/var/www/vhosts/premiar.cn/maximglass.com' 
+Search2:	'C:\/xampp\/htdocs\/machinefinal' 
+Change2:	'\/var\/www\/vhosts\/premiar.cn\/maximglass.com' 
+Search3:	'C%3A%2Fxampp%2Fhtdocs%2Fmachinefinal%2F' 
+Change3:	'%2Fvar%2Fwww%2Fvhosts%2Fpremiar.cn%2Fmaximglass.com%2F' 
+Search4:	'C:\xampp\htdocs\machinefinal' 
+Change4:	'/var/www/vhosts/premiar.cn/maximglass.com' 
+Search5:	'C:\\xampp\\htdocs\\machinefinal' 
+Change5:	'\/var\/www\/vhosts\/premiar.cn\/maximglass.com' 
+Search6:	'C%3A%5Cxampp%5Chtdocs%5Cmachinefinal' 
+Change6:	'%2Fvar%2Fwww%2Fvhosts%2Fpremiar.cn%2Fmaximglass.com' 
+Search7:	'//localhost/machinefinal' 
+Change7:	'//maximglass.com' 
+Search8:	'\/\/localhost\/machinefinal' 
+Change8:	'\/\/maximglass.com' 
+Search9:	'%2F%2Flocalhost%2Fmachinefinal' 
+Change9:	'%2F%2Fmaximglass.com' 
+Search10:	'http://maximglass.com' 
+Change10:	'https://maximglass.com' 
+Search11:	'http:\/\/maximglass.com' 
+Change11:	'https:\/\/maximglass.com' 
+Search12:	'http%3A%2F%2Fmaximglass.com' 
+Change12:	'https%3A%2F%2Fmaximglass.com' 
+Search13:	'//localhost/machinefinal' 
+Change13:	'//maximglass.com' 
+Search14:	'\/\/localhost\/machinefinal' 
+Change14:	'\/\/maximglass.com' 
+Search15:	'%2F%2Flocalhost%2Fmachinefinal%2F' 
+Change15:	'%2F%2Fmaximglass.com' 
+Search16:	'http://maximglass.com' 
+Change16:	'https://maximglass.com' 
+Search17:	'http:\/\/maximglass.com' 
+Change17:	'https:\/\/maximglass.com' 
+Search18:	'http%3A%2F%2Fmaximglass.com' 
+Change18:	'https%3A%2F%2Fmaximglass.com' 
+SCANNED:	Tables:40 	|	 Rows:9656 	|	 Cells:62022 
+UPDATED:	Tables:2 	|	 Rows:1054 	|	 Cells:1402 
+ERRORS:		0 
+RUNTIME:	0.338600 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/var/www/vhosts/premiar.cn/maximglass.com/wp-config.php'
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+FINAL REPORT NOTICES
+
+STEP-3 COMPLETE @ 05:33:27 - RUNTIME: 0.3502 sec. 
+
+

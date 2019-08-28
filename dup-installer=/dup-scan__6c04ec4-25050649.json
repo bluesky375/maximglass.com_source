@@ -1,0 +1,406 @@
+{
+    "RPT": {
+        "ScanTime": "1.05 sec.",
+        "ScanFile": "machinerydbnew_6c04ec4d41bf3ae11382_20190625050649_scan.json",
+        "Warnings": 0,
+        "Success": 6
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "FilterDirsAll": [
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/ai1wm-backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/backups-dup-pro",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/backupwordpress",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/cache",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/content\/cache",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/contents\/cache",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/infinitewp\/backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/managewp\/backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/old-cache",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/updraft",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/aiowps_backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/backupbuddy_backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/backupbuddy_temp",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/ithemes-security\/backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/mainwp\/backup",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/pb_backupbuddy",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/snapshots",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/sucuri",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wp-clone",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wp_all_backup",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wpbackitup_backups",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/wfcache",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-content\/wishlist-backup",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "C:\/xampp\/htdocs\/machinefinal\/.htaccess",
+            "C:\/xampp\/htdocs\/machinefinal\/web.config",
+            "C:\/xampp\/htdocs\/machinefinal\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-snapshots",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/backups-dup-pro",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/ai1wm-backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/backupwordpress",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/content\/cache",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/contents\/cache",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/infinitewp\/backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/managewp\/backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/old-cache",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/updraft",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/wishlist-backup",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/wfcache",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/cache",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/aiowps_backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/backupbuddy_temp",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/backupbuddy_backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/ithemes-security\/backups",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/mainwp\/backup",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/pb_backupbuddy",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/snapshots",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/sucuri",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wp-clone",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wp_all_backup",
+                    "C:\/xampp\/htdocs\/machinefinal\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Warn"
+        },
+        "Size": "21.13MB",
+        "Rows": "8,678",
+        "TableCount": 40,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_eum_logs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "428",
+                "Size": "2.25MB",
+                "USize": 2359296
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "6,318",
+                "Size": "12.19MB",
+                "USize": 12779520
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "977",
+                "Size": "4.81MB",
+                "USize": 5046272
+            },
+            "wp_revslider_css": {
+                "Case": 0,
+                "Rows": "109",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wp_revslider_layer_animations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_revslider_navigations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_revslider_sliders": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_revslider_slides": {
+                "Case": 0,
+                "Rows": "12",
+                "Size": "288KB",
+                "USize": 294912
+            },
+            "wp_revslider_static_slides": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "192",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "45",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "67",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "45",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "64",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "21",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wp_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wonderplugin_3dcarousel": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "18.82KB",
+                "USize": 19268
+            },
+            "wp_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "150",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_yoast_seo_meta": {
+                "Case": 0,
+                "Rows": "236",
+                "Size": "16KB",
+                "USize": 16384
+            }
+        },
+        "RawSize": 22155076
+    },
+    "LL": {
+        "TotalSize": "21.13MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}

@@ -1,0 +1,95 @@
+.tp-caption.FoodCarousel-Content, .FoodCarousel-Content {
+color:#292e31;
+font-size:17px;
+line-height:28px;
+font-weight:500;
+font-style:normal;
+font-family:Raleway;
+text-decoration:none;
+background-color:#fff;
+border-color:#292e31;
+border-style:solid;
+border-width:1px;
+border-radius:0 0 0 0;
+}
+
+.tp-caption.FoodCarousel-Button, .FoodCarousel-Button {
+color:#292e31;
+font-size:13px;
+line-height:13px;
+font-weight:700;
+font-style:normal;
+font-family:Raleway;
+text-decoration:none;
+background-color:#ffffff;
+border-color:#292e31;
+border-style:solid;
+border-width:1;
+border-radius:0px 0px 0px 0px;
+letter-spacing:1px;
+}
+
+.tp-caption.FoodCarousel-Button:hover, .FoodCarousel-Button:hover {
+color:#ffffff;
+color-transparency:1;
+text-decoration:none;
+background-color:#292e31;
+background-transparency:1;
+border-color:#292e31;
+border-transparency:1;
+border-style:solid;
+border-width:1;
+border-radius:0px 0px 0px 0px;
+opacity:1;
+scalex:1;
+scaley:1;
+skewx:0;
+skewy:0;
+xrotate:0;
+yrotate:0;
+2d_rotation:0;
+css_cursor:pointer;
+speed:300;
+easing:Power1.easeInOut;
+}
+
+.tp-caption.FoodCarousel-CloseButton, .FoodCarousel-CloseButton {
+color:#292e31;
+font-size:20px;
+line-height:20px;
+font-weight:700;
+font-style:normal;
+font-family:Raleway;
+text-decoration:none;
+background-color:#000000;
+border-color:#292e31;
+border-style:solid;
+border-width:1;
+border-radius:30px 30px 30px 30px;
+letter-spacing:1px;
+}
+
+.tp-caption.FoodCarousel-CloseButton:hover, .FoodCarousel-CloseButton:hover {
+color:#ffffff;
+color-transparency:1;
+text-decoration:none;
+background-color:#292e31;
+background-transparency:1;
+border-color:#292e31;
+border-transparency:0;
+border-style:solid;
+border-width:1;
+border-radius:30px 30px 30px 30px;
+opacity:1;
+scalex:1;
+scaley:1;
+skewx:0;
+skewy:0;
+xrotate:0;
+yrotate:0;
+2d_rotation:0;
+css_cursor:pointer;
+speed:300;
+easing:Power1.easeInOut;
+}
+

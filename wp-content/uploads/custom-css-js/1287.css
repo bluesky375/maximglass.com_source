@@ -1,0 +1,22 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.d3-slidez .wonderplugin3dcarousel-container .wonderplugin3dcarousel-list > .wonderplugin3dcarousel-item >div+a, #threedcarousel-html5-lightbox #html5-watermark
+{
+    display:none !important;
+}
+.wonderplugin3dcarousel-image
+{
+	height:auto !important;
+	overflow:visible !important;
+}
+img.wonderplugin3dcarousel-img
+{
+	margin:0px !important;
+}
+.wonderplugin3dcarousel-list-container
+{
+
+	height: 650px !important
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

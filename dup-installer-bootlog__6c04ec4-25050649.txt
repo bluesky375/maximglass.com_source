@@ -1,0 +1,135 @@
+Jun 25 05:27:00 ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.14==
+Jun 25 05:27:00 ----------------------------------------------------
+Jun 25 05:27:00 Installer bootstrap start
+Jun 25 05:27:00 Using archive /var/www/vhosts/premiar.cn/maximglass.com/machinerydbnew_6c04ec4d41bf3ae11382_20190625050649_archive.zip
+Jun 25 05:27:00 Manual extract didn't found so going to extract dup-installer dir
+Jun 25 05:27:00 Ready to extract the installer
+Jun 25 05:27:00 Checking permission of destination folder
+Jun 25 05:27:00 ZipArchive exists so using that
+Jun 25 05:27:00 Successfully opened /var/www/vhosts/premiar.cn/maximglass.com/machinerydbnew_6c04ec4d41bf3ae11382_20190625050649_archive.zip
+Jun 25 05:27:00 Extracting all files from archive within dup-installer
+Jun 25 05:27:00 Success: dup-installer/dup-database__6c04ec4-25050649.sql >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/dup-scan__6c04ec4-25050649.json >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/css/all.min.css >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/css/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.eot >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.ttf >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.eot >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.ttf >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.eot >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.ttf >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/font-awesome/webfonts/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/inc.css.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/inc.js.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/inc.libs.css.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/inc.libs.js.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/assets/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.crypt.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.csrf.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.db.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.engine.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.http.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.installer.state.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.logging.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.password.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.server.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/class.view.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/config/class.archive.config.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/config/class.boot.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/config/class.conf.srv.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/config/class.constants.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/config/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/Crypt/Base.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/Crypt/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/Crypt/Random.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/Crypt/Rijndael.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/utilities/class.u.exceptions.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/utilities/class.u.html.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/utilities/class.u.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/classes/utilities/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.base.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.s1.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.s2.base.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/ctrl.s3.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/ctrls/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/browserconfig.xml >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_android-chrome-192x192.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_android-chrome-256x256.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_apple-touch-icon.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_favicon-16x16.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_favicon-32x32.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_favicon.ico >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_mstile-150x150.png >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/lite01_safari-pinned-tab.svg >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/favicon/site.webmanifest >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/main.installer.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.exception.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.help.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.init1.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s1.base.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s1.terms.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s2.base.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s2.basic.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s2.cpnl.lite.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s2.dbtest.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s3.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/views/view.s4.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/dup-archive__6c04ec4-25050649.txt >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/index.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/snaplib.all.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> /var/www/vhosts/premiar.cn/maximglass.com
+Jun 25 05:27:00 Successfully closed archive file
+Jun 25 05:27:00 Successfully extracted with ZipArchive
+Jun 25 05:27:00 SAPI: FPM
+Jun 25 05:27:00 Server: Apache
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/assets to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/classes to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/ctrls to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/favicon to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/lib to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/views to 755<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/dup-archive__6c04ec4-25050649.txt to 644<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/dup-database__6c04ec4-25050649.sql to 644<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/dup-scan__6c04ec4-25050649.json to 644<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/index.php to 644<br/>
+Jun 25 05:27:00 Set permissions of /var/www/vhosts/premiar.cn/maximglass.com/dup-installer/main.installer.php to 644<br/>
+Jun 25 05:27:00 No detected errors so redirecting to the main installer. Main Installer URI = https://maximglass.com/dup-installer/main.installer.php
